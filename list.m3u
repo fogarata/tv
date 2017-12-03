@@ -1,6 +1,14 @@
-#EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1369000,RESOLUTION=1280x720,CODECS="avc1.77.30, mp4a.40.2"
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_3_av-b.m3u8?sd=10&rebase=on
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1759000,RESOLUTION=1280x720,CODECS="avc1.77.30, mp4a.40.2"
-http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="España", La 1
+http://hlsackdn-gl7.rtve.es/i/hlsdvrlive_1@566874/master.m3u8
 
+#EXTINF:-1 group-title="España", La 2
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl0-la2lv3aomgl0/_definst_/live.m3u8
+
+#EXTINF:-1 group-title="España", Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+
+#EXTINF:-1 group-title="España", A3Series
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
+
+#EXTINF:-1 group-title="España", La Sexta
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
