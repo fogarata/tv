@@ -12,3 +12,27 @@ http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 
 #EXTINF:-1 group-title="España", La Sexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+#EXTINF:-1 group-title="España", TVE 24h
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+#EXTINF:-1 group-title="España", Teledeporte
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl1-tdplv3aomgl1/_definst_/live.m3u8
+
+#EXTINF:-1 group-title="España", Teledeporte HD
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl1-tdphdlv3aomgl1/_definst_/live/stream3.m3u8
+
+#EXTINF:-1 group-title="España", TPA
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+
+#EXTINF:-1 group-title="España", Mega
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8
+
+#EXTINF:-1 group-title="España", Neox
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/master.m3u8
+
+#EXTINF:-1 group-title="España", Nova
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8
+
+#EXTINF:-1 group-title="España", Divinity
+http://www.apps4two.com/apps/tvonline/rm2access.php?o=divinity
