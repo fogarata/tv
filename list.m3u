@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1,ES | TVE La 1
 http://server.internext.tv:8000/live/star18/star18/12508.ts
 
@@ -19,6 +20,16 @@ http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 #EXTINF:-1 group-title="España", La Sexta
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
+#EXTINF:-1,ES | AMC HD
+http://server.internext.tv:8000/live/star18/star18/12490.ts
+#EXTINF:-1,ES | ANTENA_3
+http://server.internext.tv:8000/live/star18/star18/12505.ts
+#EXTINF:-1,ES | AXN White HD
+http://server.internext.tv:8000/live/star18/star18/12489.ts
+#EXTINF:-1,ES | BABY TV
+http://server.internext.tv:8000/live/star18/star18/12456.ts
+#EXTINF:-1,ES | BARCA TV
+http://server.internext.tv:8000/live/star18/star18/12472.ts
 #EXTINF:-1,ES | BeIN Laliga
 http://server.internext.tv:8000/live/star18/star18/12470.ts
 #EXTINF:-1,ES | BeIN SPORTS ES HD
@@ -31,6 +42,114 @@ http://server.internext.tv:8000/live/star18/star18/12484.ts
 http://server.internext.tv:8000/live/star18/star18/12468.ts
 #EXTINF:-1,ES | CANAL DeCasa
 http://server.internext.tv:8000/live/star18/star18/12467.ts
+#EXTINF:-1,ES | CANAL_SUR_ANDALUCIA
+http://server.internext.tv:8000/live/star18/star18/12444.ts
+#EXTINF:-1,ES | COMEDY Central
+http://server.internext.tv:8000/live/star18/star18/12480.ts
+#EXTINF:-1,ES | COSMO HD
+http://server.internext.tv:8000/live/star18/star18/12479.ts
+#EXTINF:-1,ES | Crimen & Investigation
+http://server.internext.tv:8000/live/star18/star18/12466.ts
+#EXTINF:-1,ES | Cuatro
+http://server.internext.tv:8000/live/star18/star18/12504.ts
+#EXTINF:-1,ES | DISNEY Channel
+http://server.internext.tv:8000/live/star18/star18/12460.ts
+#EXTINF:-1,ES | DISNEY Junior
+http://server.internext.tv:8000/live/star18/star18/12459.ts
+#EXTINF:-1,ES | DISNEY XD
+http://server.internext.tv:8000/live/star18/star18/12458.ts
+#EXTINF:-1,ES | ENERGY
+http://server.internext.tv:8000/live/star18/star18/12478.ts
+#EXTINF:-1,ES | FOX HD
+http://server.internext.tv:8000/live/star18/star18/12483.ts
+#EXTINF:-1,ES | FOX Life HD
+http://server.internext.tv:8000/live/star18/star18/12482.ts
+#EXTINF:-1,ES | Historia
+http://server.internext.tv:8000/live/star18/star18/12463.ts
+#EXTINF:-1,ES | HOLLYWOOD HD
+http://server.internext.tv:8000/live/star18/star18/12491.ts
+#EXTINF:-1,ES | La Sexta_HD
+http://server.internext.tv:8000/live/star18/star18/12503.ts
+#EXTINF:-1,ES | MOVISTAR Accion HD
+http://server.internext.tv:8000/live/star18/star18/12497.ts
+#EXTINF:-1,ES | MOVISTAR Comedia HD
+http://server.internext.tv:8000/live/star18/star18/12496.ts
+#EXTINF:-1,ES | MOVISTAR Dcine
+http://server.internext.tv:8000/live/star18/star18/12495.ts
+#EXTINF:-1,ES | MOVISTAR Deportes 1 HD
+http://server.internext.tv:8000/live/star18/star18/12477.ts
+#EXTINF:-1,ES | MOVISTAR Estrenos
+http://server.internext.tv:8000/live/star18/star18/12498.ts
+#EXTINF:-1,ES | MOVISTAR F1
+http://server.internext.tv:8000/live/star18/star18/12475.ts
+#EXTINF:-1,ES | MOVISTAR GOLF
+http://server.internext.tv:8000/live/star18/star18/12474.ts
+#EXTINF:-1,ES | MOVISTAR MotoGP
+http://server.internext.tv:8000/live/star18/star18/12473.ts
+#EXTINF:-1,ES | MOVISTAR Portada
+http://server.internext.tv:8000/live/star18/star18/12488.ts
+#EXTINF:-1,ES | MOVISTAR Series
+http://server.internext.tv:8000/live/star18/star18/12487.ts
+#EXTINF:-1,ES | MOVISTAR SERIES XTRA
+http://server.internext.tv:8000/live/star18/star18/12486.ts
+#EXTINF:-1,ES | MOVISTAR TOROS TV
+http://server.internext.tv:8000/live/star18/star18/12485.ts
+#EXTINF:-1,ES | Movistar Xtra
+http://server.internext.tv:8000/live/star18/star18/12494.ts
+#EXTINF:-1,ES | MOVISTAR_FUTBOL
+http://server.internext.tv:8000/live/star18/star18/12476.ts
+#EXTINF:-1,ES | MTV
+http://server.internext.tv:8000/live/star18/star18/12455.ts
+#EXTINF:-1,ES | Nat Geo Wild
+http://server.internext.tv:8000/live/star18/star18/12464.ts
+#EXTINF:-1,ES | National Geographic
+http://server.internext.tv:8000/live/star18/star18/12465.ts
+#EXTINF:-1,ES | Neox Tv
+http://server.internext.tv:8000/live/star18/star18/12502.ts
+#EXTINF:-1,ES | Nova
+http://server.internext.tv:8000/live/star18/star18/12501.ts
+#EXTINF:-1,ES | Odisea Tv
+http://server.internext.tv:8000/live/star18/star18/12462.ts
+#EXTINF:-1,ES | PARAMOUNT Channel
+http://server.internext.tv:8000/live/star18/star18/12492.ts
+#EXTINF:-1,ES | REAL MADRID TV
+http://server.internext.tv:8000/live/star18/star18/12471.ts
+#EXTINF:-1,ES | SYFY HD
+http://server.internext.tv:8000/live/star18/star18/12481.ts
+#EXTINF:-1,ES | TAQUILLA 1
+http://server.internext.tv:8000/live/star18/star18/12454.ts
+#EXTINF:-1,ES | TAQUILLA 10
+http://server.internext.tv:8000/live/star18/star18/12445.ts
+#EXTINF:-1,ES | TAQUILLA 2
+http://server.internext.tv:8000/live/star18/star18/12453.ts
+#EXTINF:-1,ES | TAQUILLA 3
+http://server.internext.tv:8000/live/star18/star18/12452.ts
+#EXTINF:-1,ES | TAQUILLA 4
+http://server.internext.tv:8000/live/star18/star18/12451.ts
+#EXTINF:-1,ES | TAQUILLA 5
+http://server.internext.tv:8000/live/star18/star18/12450.ts
+#EXTINF:-1,ES | TAQUILLA 6
+http://server.internext.tv:8000/live/star18/star18/12449.ts
+#EXTINF:-1,ES | TAQUILLA 7
+http://server.internext.tv:8000/live/star18/star18/12448.ts
+#EXTINF:-1,ES | TAQUILLA 8
+http://server.internext.tv:8000/live/star18/star18/12447.ts
+#EXTINF:-1,ES | TAQUILLA 9
+http://server.internext.tv:8000/live/star18/star18/12446.ts
+#EXTINF:-1,ES | Telecinco HD
+http://server.internext.tv:8000/live/star18/star18/12500.ts
+#EXTINF:-1,ES | Telesur
+http://server.internext.tv:8000/live/star18/star18/12499.ts
+#EXTINF:-1,ES | TNT HD
+http://server.internext.tv:8000/live/star18/star18/12493.ts
+#EXTINF:-1,ES | TVE Clan
+http://server.internext.tv:8000/live/star18/star18/12506.ts
+#EXTINF:-1,ES | TVE LA 2
+http://server.internext.tv:8000/live/star18/star18/12507.ts
+#EXTINF:-1,ES | TVE_LA 1
+http://server.internext.tv:8000/live/star18/star18/12508.ts
+#EXTINF:-1,ES | VIAJAR
+http://server.internext.tv:8000/live/star18/star18/12461.ts
 
 #EXTINF:-1 group-title="España", TVE 24h
 http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl8-24hlv3aomgl8/_definst_/live.m3u8
