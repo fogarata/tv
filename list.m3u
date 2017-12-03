@@ -14,7 +14,7 @@ http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/master.m3u8
 http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
 
 #EXTINF:-1 group-title="España", TVE 24h
-http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl8-24hlv3aomgl8/_definst_/live.m3u8
 
 #EXTINF:-1 group-title="España", Teledeporte
 http://rtve-live.hds.adaptive.level3.net/hls-live/rtvegl1-tdplv3aomgl1/_definst_/live.m3u8
